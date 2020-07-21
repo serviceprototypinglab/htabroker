@@ -1,0 +1,4 @@
+- interfacing with real message broker, e.g. Pulsar
+  (loading topics...)
+
+- VerneMQ cluster

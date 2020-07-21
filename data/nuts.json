@@ -1,0 +1,2689 @@
+{
+  "Belgique/België": {
+    "Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest": {
+      "Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest": {
+        "Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad": {}
+      }
+    },
+    "Vlaams Gewest": {
+      "Prov. Antwerpen": {
+        "Arr. Antwerpen": {},
+        "Arr. Mechelen": {},
+        "Arr. Turnhout": {}
+      },
+      "Prov. Limburg (BE)": {
+        "Arr. Tongeren": {},
+        "Arr. Hasselt": {},
+        "Arr. Maaseik": {}
+      },
+      "Prov. Oost-Vlaanderen": {
+        "Arr. Aalst": {},
+        "Arr. Dendermonde": {},
+        "Arr. Eeklo": {},
+        "Arr. Gent": {},
+        "Arr. Oudenaarde": {},
+        "Arr. Sint-Niklaas": {}
+      },
+      "Prov. Vlaams-Brabant": {
+        "Arr. Halle-Vilvoorde": {},
+        "Arr. Leuven": {}
+      },
+      "Prov. West-Vlaanderen": {
+        "Arr. Brugge": {},
+        "Arr. Diksmuide": {},
+        "Arr. Ieper": {},
+        "Arr. Kortrijk": {},
+        "Arr. Oostende": {},
+        "Arr. Roeselare": {},
+        "Arr. Tielt": {},
+        "Arr. Veurne": {}
+      }
+    },
+    "Région wallonne": {
+      "Prov. Brabant Wallon": {
+        "Arr. Nivelles": {}
+      },
+      "Prov. Hainaut": {
+        "Arr. Mons": {},
+        "Arr. Tournai-Mouscron": {},
+        "Arr. La Louvière": {},
+        "Arr. Ath": {},
+        "Arr. Charleroi": {},
+        "Arr. Soignies": {},
+        "Arr. Thuin": {}
+      },
+      "Prov. Liège": {
+        "Arr. Huy": {},
+        "Arr. Liège": {},
+        "Arr. Waremme": {},
+        "Arr. Verviers — communes francophones": {},
+        "Bezirk Verviers — Deutschsprachige Gemeinschaft": {}
+      },
+      "Prov. Luxembourg (BE)": {
+        "Arr. Arlon": {},
+        "Arr. Bastogne": {},
+        "Arr. Marche-en-Famenne": {},
+        "Arr. Neufchâteau": {},
+        "Arr. Virton": {}
+      },
+      "Prov. Namur": {
+        "Arr. Dinant": {},
+        "Arr. Namur": {},
+        "Arr. Philippeville": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "България": {
+    "Северна и югоизточна България": {
+      "Северозападен": {
+        "Видин": {},
+        "Монтана": {},
+        "Враца": {},
+        "Плевен": {},
+        "Ловеч": {}
+      },
+      "Северен централен": {
+        "Велико Търново": {},
+        "Габрово": {},
+        "Русе": {},
+        "Разград": {},
+        "Силистра": {}
+      },
+      "Североизточен": {
+        "Варна": {},
+        "Добрич": {},
+        "Шумен": {},
+        "Търговище": {}
+      },
+      "Югоизточен": {
+        "Бургас": {},
+        "Сливен": {},
+        "Ямбол": {},
+        "Стара Загора": {}
+      }
+    },
+    "Югозападна и южна централна България": {
+      "Югозападен": {
+        "София (столица)": {},
+        "София": {},
+        "Благоевград": {},
+        "Перник": {},
+        "Кюстендил": {}
+      },
+      "Южен централен": {
+        "Пловдив": {},
+        "Хасково": {},
+        "Пазарджик": {},
+        "Смолян": {},
+        "Кърджали": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Česko": {
+    "Česko": {
+      "Praha": {
+        "Hlavní město Praha": {}
+      },
+      "Střední Čechy": {
+        "Středočeský kraj": {}
+      },
+      "Jihozápad": {
+        "Jihočeský kraj": {},
+        "Plzeňský kraj": {}
+      },
+      "Severozápad": {
+        "Karlovarský kraj": {},
+        "Ústecký kraj": {}
+      },
+      "Severovýchod": {
+        "Liberecký kraj": {},
+        "Královéhradecký kraj": {},
+        "Pardubický kraj": {}
+      },
+      "Jihovýchod": {
+        "Kraj Vysočina": {},
+        "Jihomoravský kraj": {}
+      },
+      "Střední Morava": {
+        "Olomoucký kraj": {},
+        "Zlínský kraj": {}
+      },
+      "Moravskoslezsko": {
+        "Moravskoslezský kraj": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Danmark": {
+    "Danmark": {
+      "Hovedstaden": {
+        "Byen København": {},
+        "Københavns omegn": {},
+        "Nordsjælland": {},
+        "Bornholm": {}
+      },
+      "Sjælland": {
+        "Østsjælland": {},
+        "Vest- og Sydsjælland": {}
+      },
+      "Syddanmark": {
+        "Fyn": {},
+        "Sydjylland": {}
+      },
+      "Midtjylland": {
+        "Vestjylland": {},
+        "Østjylland": {}
+      },
+      "Nordjylland": {
+        "Nordjylland": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Deutschland": {
+    "Baden-Württemberg": {
+      "Stuttgart": {
+        "Stuttgart, Stadtkreis": {},
+        "Böblingen": {},
+        "Esslingen": {},
+        "Göppingen": {},
+        "Ludwigsburg": {},
+        "Rems-Murr-Kreis": {},
+        "Heilbronn, Stadtkreis": {},
+        "Heilbronn, Landkreis": {},
+        "Hohenlohekreis": {},
+        "Schwäbisch Hall": {},
+        "Main-Tauber-Kreis": {},
+        "Heidenheim": {},
+        "Ostalbkreis": {}
+      },
+      "Karlsruhe": {
+        "Baden-Baden, Stadtkreis": {},
+        "Karlsruhe, Stadtkreis": {},
+        "Karlsruhe, Landkreis": {},
+        "Rastatt": {},
+        "Heidelberg, Stadtkreis": {},
+        "Mannheim, Stadtkreis": {},
+        "Neckar-Odenwald-Kreis": {},
+        "Rhein-Neckar-Kreis": {},
+        "Pforzheim, Stadtkreis": {},
+        "Calw": {},
+        "Enzkreis": {},
+        "Freudenstadt": {}
+      },
+      "Freiburg": {
+        "Freiburg im Breisgau, Stadtkreis": {},
+        "Breisgau-Hochschwarzwald": {},
+        "Emmendingen": {},
+        "Ortenaukreis": {},
+        "Rottweil": {},
+        "Schwarzwald-Baar-Kreis": {},
+        "Tuttlingen": {},
+        "Konstanz": {},
+        "Lörrach": {},
+        "Waldshut": {}
+      },
+      "Tübingen": {
+        "Reutlingen": {},
+        "Tübingen, Landkreis": {},
+        "Zollernalbkreis": {},
+        "Ulm, Stadtkreis": {},
+        "Alb-Donau-Kreis": {},
+        "Biberach": {},
+        "Bodenseekreis": {},
+        "Ravensburg": {},
+        "Sigmaringen": {}
+      }
+    },
+    "Bayern": {
+      "Oberbayern": {
+        "Ingolstadt, Kreisfreie Stadt": {},
+        "München, Kreisfreie Stadt": {},
+        "Rosenheim, Kreisfreie Stadt": {},
+        "Altötting": {},
+        "Berchtesgadener Land": {},
+        "Bad Tölz-Wolfratshausen": {},
+        "Dachau": {},
+        "Ebersberg": {},
+        "Eichstätt": {},
+        "Erding": {},
+        "Freising": {},
+        "Fürstenfeldbruck": {},
+        "Garmisch-Partenkirchen": {},
+        "Landsberg am Lech": {},
+        "Miesbach": {},
+        "Mühldorf a. Inn": {},
+        "München, Landkreis": {},
+        "Neuburg-Schrobenhausen": {},
+        "Pfaffenhofen a. d. Ilm": {},
+        "Rosenheim, Landkreis": {},
+        "Starnberg": {},
+        "Traunstein": {},
+        "Weilheim-Schongau": {}
+      },
+      "Niederbayern": {
+        "Landshut, Kreisfreie Stadt": {},
+        "Passau, Kreisfreie Stadt": {},
+        "Straubing, Kreisfreie Stadt": {},
+        "Deggendorf": {},
+        "Freyung-Grafenau": {},
+        "Kelheim": {},
+        "Landshut, Landkreis": {},
+        "Passau, Landkreis": {},
+        "Regen": {},
+        "Rottal-Inn": {},
+        "Straubing-Bogen": {},
+        "Dingolfing-Landau": {}
+      },
+      "Oberpfalz": {
+        "Amberg, Kreisfreie Stadt": {},
+        "Regensburg, Kreisfreie Stadt": {},
+        "Weiden i. d. Opf, Kreisfreie Stadt": {},
+        "Amberg-Sulzbach": {},
+        "Cham": {},
+        "Neumarkt i. d. OPf.": {},
+        "Neustadt a. d. Waldnaab": {},
+        "Regensburg, Landkreis": {},
+        "Schwandorf": {},
+        "Tirschenreuth": {}
+      },
+      "Oberfranken": {
+        "Bamberg, Kreisfreie Stadt": {},
+        "Bayreuth, Kreisfreie Stadt": {},
+        "Coburg, Kreisfreie Stadt": {},
+        "Hof, Kreisfreie Stadt": {},
+        "Bamberg, Landkreis": {},
+        "Bayreuth, Landkreis": {},
+        "Coburg, Landkreis": {},
+        "Forchheim": {},
+        "Hof, Landkreis": {},
+        "Kronach": {},
+        "Kulmbach": {},
+        "Lichtenfels": {},
+        "Wunsiedel i. Fichtelgebirge": {}
+      },
+      "Mittelfranken": {
+        "Ansbach, Kreisfreie Stadt": {},
+        "Erlangen, Kreisfreie Stadt": {},
+        "Fürth, Kreisfreie Stadt": {},
+        "Nürnberg, Kreisfreie Stadt": {},
+        "Schwabach, Kreisfreie Stadt": {},
+        "Ansbach, Landkreis": {},
+        "Erlangen-Höchstadt": {},
+        "Fürth, Landkreis": {},
+        "Nürnberger Land": {},
+        "Neustadt a. d. Aisch-Bad Windsheim": {},
+        "Roth": {},
+        "Weißenburg-Gunzenhausen": {}
+      },
+      "Unterfranken": {
+        "Aschaffenburg, Kreisfreie Stadt": {},
+        "Schweinfurt, Kreisfreie Stadt": {},
+        "Würzburg, Kreisfreie Stadt": {},
+        "Aschaffenburg, Landkreis": {},
+        "Bad Kissingen": {},
+        "Rhön-Grabfeld": {},
+        "Haßberge": {},
+        "Kitzingen": {},
+        "Miltenberg": {},
+        "Main-Spessart": {},
+        "Schweinfurt, Landkreis": {},
+        "Würzburg, Landkreis": {}
+      },
+      "Schwaben": {
+        "Augsburg, Kreisfreie Stadt": {},
+        "Kaufbeuren, Kreisfreie Stadt": {},
+        "Kempten (Allgäu), Kreisfreie Stadt": {},
+        "Memmingen, Kreisfreie Stadt": {},
+        "Aichach-Friedberg": {},
+        "Augsburg, Landkreis": {},
+        "Dillingen a.d. Donau": {},
+        "Günzburg": {},
+        "Neu-Ulm": {},
+        "Lindau (Bodensee)": {},
+        "Ostallgäu": {},
+        "Unterallgäu": {},
+        "Donau-Ries": {},
+        "Oberallgäu": {}
+      }
+    },
+    "Berlin": {
+      "Berlin": {
+        "Berlin": {}
+      }
+    },
+    "Brandenburg": {
+      "Brandenburg": {
+        "Brandenburg an der Havel, Kreisfreie Stadt": {},
+        "Cottbus, Kreisfreie Stadt": {},
+        "Frankfurt (Oder), Kreisfreie Stadt": {},
+        "Potsdam, Kreisfreie Stadt": {},
+        "Barnim": {},
+        "Dahme-Spreewald": {},
+        "Elbe-Elster": {},
+        "Havelland": {},
+        "Märkisch-Oderland": {},
+        "Oberhavel": {},
+        "Oberspreewald-Lausitz": {},
+        "Oder-Spree": {},
+        "Ostprignitz-Ruppin": {},
+        "Potsdam-Mittelmark": {},
+        "Prignitz": {},
+        "Spree-Neiße": {},
+        "Teltow-Fläming": {},
+        "Uckermark": {}
+      }
+    },
+    "Bremen": {
+      "Bremen": {
+        "Bremen, Kreisfreie Stadt": {},
+        "Bremerhaven, Kreisfreie Stadt": {}
+      }
+    },
+    "Hamburg": {
+      "Hamburg": {
+        "Hamburg": {}
+      }
+    },
+    "Hessen": {
+      "Darmstadt": {
+        "Darmstadt, Kreisfreie Stadt": {},
+        "Frankfurt am Main, Kreisfreie Stadt": {},
+        "Offenbach am Main, Kreisfreie Stadt": {},
+        "Wiesbaden, Kreisfreie Stadt": {},
+        "Bergstraße": {},
+        "Darmstadt-Dieburg": {},
+        "Groß-Gerau": {},
+        "Hochtaunuskreis": {},
+        "Main-Kinzig-Kreis": {},
+        "Main-Taunus-Kreis": {},
+        "Odenwaldkreis": {},
+        "Offenbach, Landkreis": {},
+        "Rheingau-Taunus-Kreis": {},
+        "Wetteraukreis": {}
+      },
+      "Gießen": {
+        "Gießen, Landkreis": {},
+        "Lahn-Dill-Kreis": {},
+        "Limburg-Weilburg": {},
+        "Marburg-Biedenkopf": {},
+        "Vogelsbergkreis": {}
+      },
+      "Kassel": {
+        "Kassel, Kreisfreie Stadt": {},
+        "Fulda": {},
+        "Hersfeld-Rotenburg": {},
+        "Kassel, Landkreis": {},
+        "Schwalm-Eder-Kreis": {},
+        "Waldeck-Frankenberg": {},
+        "Werra-Meißner-Kreis": {}
+      }
+    },
+    "Mecklenburg-Vorpommern": {
+      "Mecklenburg-Vorpommern": {
+        "Rostock, Kreisfreie Stadt": {},
+        "Schwerin, Kreisfreie Stadt": {},
+        "Mecklenburgische Seenplatte": {},
+        "Landkreis Rostock": {},
+        "Vorpommern-Rügen": {},
+        "Nordwestmecklenburg": {},
+        "Vorpommern-Greifswald": {},
+        "Ludwigslust-Parchim": {}
+      }
+    },
+    "Niedersachsen": {
+      "Braunschweig": {
+        "Braunschweig, Kreisfreie Stadt": {},
+        "Salzgitter, Kreisfreie Stadt": {},
+        "Wolfsburg, Kreisfreie Stadt": {},
+        "Gifhorn": {},
+        "Goslar": {},
+        "Helmstedt": {},
+        "Northeim": {},
+        "Peine": {},
+        "Wolfenbüttel": {},
+        "Göttingen": {}
+      },
+      "Hannover": {
+        "Diepholz": {},
+        "Hameln-Pyrmont": {},
+        "Hildesheim": {},
+        "Holzminden": {},
+        "Nienburg (Weser)": {},
+        "Schaumburg": {},
+        "Region Hannover": {}
+      },
+      "Lüneburg": {
+        "Celle": {},
+        "Cuxhaven": {},
+        "Harburg": {},
+        "Lüchow-Dannenberg": {},
+        "Lüneburg, Landkreis": {},
+        "Osterholz": {},
+        "Rotenburg (Wümme)": {},
+        "Heidekreis": {},
+        "Stade": {},
+        "Uelzen": {},
+        "Verden": {}
+      },
+      "Weser-Ems": {
+        "Delmenhorst, Kreisfreie Stadt": {},
+        "Emden, Kreisfreie Stadt": {},
+        "Oldenburg (Oldenburg), Kreisfreie Stadt": {},
+        "Osnabrück, Kreisfreie Stadt": {},
+        "Wilhelmshaven, Kreisfreie Stadt": {},
+        "Ammerland": {},
+        "Aurich": {},
+        "Cloppenburg": {},
+        "Emsland": {},
+        "Friesland (DE)": {},
+        "Grafschaft Bentheim": {},
+        "Leer": {},
+        "Oldenburg, Landkreis": {},
+        "Osnabrück, Landkreis": {},
+        "Vechta": {},
+        "Wesermarsch": {},
+        "Wittmund": {}
+      }
+    },
+    "Nordrhein-Westfalen": {
+      "Düsseldorf": {
+        "Düsseldorf, Kreisfreie Stadt": {},
+        "Duisburg, Kreisfreie Stadt": {},
+        "Essen, Kreisfreie Stadt": {},
+        "Krefeld, Kreisfreie Stadt": {},
+        "Mönchengladbach, Kreisfreie Stadt": {},
+        "Mülheim an der Ruhr, Kreisfreie Stadt": {},
+        "Oberhausen, Kreisfreie Stadt": {},
+        "Remscheid, Kreisfreie Stadt": {},
+        "Solingen, Kreisfreie Stadt": {},
+        "Wuppertal, Kreisfreie Stadt": {},
+        "Kleve": {},
+        "Mettmann": {},
+        "Rhein-Kreis Neuss": {},
+        "Viersen": {},
+        "Wesel": {}
+      },
+      "Köln": {
+        "Bonn, Kreisfreie Stadt": {},
+        "Köln, Kreisfreie Stadt": {},
+        "Leverkusen, Kreisfreie Stadt": {},
+        "Düren": {},
+        "Rhein-Erft-Kreis": {},
+        "Euskirchen": {},
+        "Heinsberg": {},
+        "Oberbergischer Kreis": {},
+        "Rheinisch-Bergischer Kreis": {},
+        "Rhein-Sieg-Kreis": {},
+        "Städteregion Aachen": {}
+      },
+      "Münster": {
+        "Bottrop, Kreisfreie Stadt": {},
+        "Gelsenkirchen, Kreisfreie Stadt": {},
+        "Münster, Kreisfreie Stadt": {},
+        "Borken": {},
+        "Coesfeld": {},
+        "Recklinghausen": {},
+        "Steinfurt": {},
+        "Warendorf": {}
+      },
+      "Detmold": {
+        "Bielefeld, Kreisfreie Stadt": {},
+        "Gütersloh": {},
+        "Herford": {},
+        "Höxter": {},
+        "Lippe": {},
+        "Minden-Lübbecke": {},
+        "Paderborn": {}
+      },
+      "Arnsberg": {
+        "Bochum, Kreisfreie Stadt": {},
+        "Dortmund, Kreisfreie Stadt": {},
+        "Hagen, Kreisfreie Stadt": {},
+        "Hamm, Kreisfreie Stadt": {},
+        "Herne, Kreisfreie Stadt": {},
+        "Ennepe-Ruhr-Kreis": {},
+        "Hochsauerlandkreis": {},
+        "Märkischer Kreis": {},
+        "Olpe": {},
+        "Siegen-Wittgenstein": {},
+        "Soest": {},
+        "Unna": {}
+      }
+    },
+    "Rheinland-Pfalz": {
+      "Koblenz": {
+        "Koblenz, Kreisfreie Stadt": {},
+        "Ahrweiler": {},
+        "Altenkirchen (Westerwald)": {},
+        "Bad Kreuznach": {},
+        "Birkenfeld": {},
+        "Mayen-Koblenz": {},
+        "Neuwied": {},
+        "Rhein-Lahn-Kreis": {},
+        "Westerwaldkreis": {},
+        "Cochem-Zell": {},
+        "Rhein-Hunsrück-Kreis": {}
+      },
+      "Trier": {
+        "Trier, Kreisfreie Stadt": {},
+        "Bernkastel-Wittlich": {},
+        "Eifelkreis Bitburg-Prüm": {},
+        "Vulkaneifel": {},
+        "Trier-Saarburg": {}
+      },
+      "Rheinhessen-Pfalz": {
+        "Frankenthal (Pfalz), Kreisfreie Stadt": {},
+        "Kaiserslautern, Kreisfreie Stadt": {},
+        "Landau in der Pfalz, Kreisfreie Stadt": {},
+        "Ludwigshafen am Rhein, Kreisfreie Stadt": {},
+        "Mainz, Kreisfreie Stadt": {},
+        "Neustadt an der Weinstraße, Kreisfreie Stadt": {},
+        "Pirmasens, Kreisfreie Stadt": {},
+        "Speyer, Kreisfreie Stadt": {},
+        "Worms, Kreisfreie Stadt": {},
+        "Zweibrücken, Kreisfreie Stadt": {},
+        "Alzey-Worms": {},
+        "Bad Dürkheim": {},
+        "Donnersbergkreis": {},
+        "Germersheim": {},
+        "Kaiserslautern, Landkreis": {},
+        "Kusel": {},
+        "Südliche Weinstraße": {},
+        "Rhein-Pfalz-Kreis": {},
+        "Mainz-Bingen": {},
+        "Südwestpfalz": {}
+      }
+    },
+    "Saarland": {
+      "Saarland": {
+        "Regionalverband Saarbrücken": {},
+        "Merzig-Wadern": {},
+        "Neunkirchen": {},
+        "Saarlouis": {},
+        "Saarpfalz-Kreis": {},
+        "St. Wendel": {}
+      }
+    },
+    "Sachsen": {
+      "Dresden": {
+        "Dresden, Kreisfreie Stadt": {},
+        "Bautzen": {},
+        "Görlitz": {},
+        "Meißen": {},
+        "Sächsische Schweiz-Osterzgebirge": {}
+      },
+      "Chemnitz": {
+        "Chemnitz, Kreisfreie Stadt": {},
+        "Erzgebirgskreis": {},
+        "Mittelsachsen": {},
+        "Vogtlandkreis": {},
+        "Zwickau": {}
+      },
+      "Leipzig": {
+        "Leipzig, Kreisfreie Stadt": {},
+        "Leipzig": {},
+        "Nordsachsen": {}
+      }
+    },
+    "Sachsen-Anhalt": {
+      "Sachsen-Anhalt": {
+        "Dessau-Roßlau, Kreisfreie Stadt": {},
+        "Halle (Saale), Kreisfreie Stadt": {},
+        "Magdeburg, Kreisfreie Stadt": {},
+        "Altmarkkreis Salzwedel": {},
+        "Anhalt-Bitterfeld": {},
+        "Jerichower Land": {},
+        "Börde": {},
+        "Burgenlandkreis": {},
+        "Harz": {},
+        "Mansfeld-Südharz": {},
+        "Saalekreis": {},
+        "Salzlandkreis": {},
+        "Stendal": {},
+        "Wittenberg": {}
+      }
+    },
+    "Schleswig-Holstein": {
+      "Schleswig-Holstein": {
+        "Flensburg, Kreisfreie Stadt": {},
+        "Kiel, Kreisfreie Stadt": {},
+        "Lübeck, Kreisfreie Stadt": {},
+        "Neumünster, Kreisfreie Stadt": {},
+        "Dithmarschen": {},
+        "Herzogtum Lauenburg": {},
+        "Nordfriesland": {},
+        "Ostholstein": {},
+        "Pinneberg": {},
+        "Plön": {},
+        "Rendsburg-Eckernförde": {},
+        "Schleswig-Flensburg": {},
+        "Segeberg": {},
+        "Steinburg": {},
+        "Stormarn": {}
+      }
+    },
+    "Thüringen": {
+      "Thüringen": {
+        "Erfurt, Kreisfreie Stadt": {},
+        "Gera, Kreisfreie Stadt": {},
+        "Jena, Kreisfreie Stadt": {},
+        "Suhl, Kreisfreie Stadt": {},
+        "Weimar, Kreisfreie Stadt": {},
+        "Eichsfeld": {},
+        "Nordhausen": {},
+        "Unstrut-Hainich-Kreis": {},
+        "Kyffhäuserkreis": {},
+        "Schmalkalden-Meiningen": {},
+        "Gotha": {},
+        "Sömmerda": {},
+        "Hildburghausen": {},
+        "Ilm-Kreis": {},
+        "Weimarer Land": {},
+        "Sonneberg": {},
+        "Saalfeld-Rudolstadt": {},
+        "Saale-Holzland-Kreis": {},
+        "Saale-Orla-Kreis": {},
+        "Greiz": {},
+        "Altenburger Land": {},
+        "Eisenach, Kreisfreie Stadt": {},
+        "Wartburgkreis": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Eesti": {
+    "Eesti": {
+      "Eesti": {
+        "Põhja-Eesti": {},
+        "Lääne-Eesti": {},
+        "Lõuna-Eesti": {},
+        "Kesk-Eesti": {},
+        "Kirde-Eesti": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Éire/Ireland": {
+    "Ireland": {
+      "Northern and Western": {
+        "Border": {},
+        "West": {}
+      },
+      "Southern": {
+        "Mid-West": {},
+        "South-East": {},
+        "South-West": {}
+      },
+      "Eastern and Midland": {
+        "Dublin": {},
+        "Mid-East": {},
+        "Midland": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Ελλάδα": {
+    "Αττική": {
+      "Aττική": {
+        "Βόρειος Τομέας Αθηνών": {},
+        "Δυτικός Τομέας Αθηνών": {},
+        "Κεντρικός Τομέας Αθηνών": {},
+        "Νότιος Τομέας Αθηνών": {},
+        "Ανατολική Αττική": {},
+        "Δυτική Αττική": {},
+        "Πειραιάς, Νήσοι": {}
+      }
+    },
+    "Νησιά Αιγαίου, Κρήτη": {
+      "Βόρειο Αιγαίο": {
+        "Λέσβος, Λήμνος": {},
+        "Ικαρία, Σάμος": {},
+        "Χίος": {}
+      },
+      "Νότιο Αιγαίο": {
+        "Κάλυμνος, Κάρπαθος – Ηρωική Νήσος Κάσος, Κως, Ρόδος": {},
+        "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος": {}
+      },
+      "Κρήτη": {
+        "Ηράκλειο": {},
+        "Λασίθι": {},
+        "Ρέθυμνο": {},
+        "Χανιά": {}
+      }
+    },
+    "Βόρεια Ελλάδα": {
+      "Aνατολική Μακεδονία, Θράκη": {
+        "Έβρος": {},
+        "Ξάνθη": {},
+        "Ροδόπη": {},
+        "Δράμα": {},
+        "Θάσος, Καβάλα": {}
+      },
+      "Κεντρική Μακεδονία": {
+        "Ημαθία": {},
+        "Θεσσαλονίκη": {},
+        "Κιλκίς": {},
+        "Πέλλα": {},
+        "Πιερία": {},
+        "Σέρρες": {},
+        "Χαλκιδική": {}
+      },
+      "Δυτική Μακεδονία": {
+        "Γρεβενά, Κοζάνη": {},
+        "Καστοριά": {},
+        "Φλώρινα": {}
+      },
+      "Ήπειρος": {
+        "Άρτα, Πρέβεζα": {},
+        "Θεσπρωτία": {},
+        "Ιωάννινα": {}
+      }
+    },
+    "Κεντρική Ελλάδα": {
+      "Θεσσαλία": {
+        "Καρδίτσα, Τρίκαλα": {},
+        "Λάρισα": {},
+        "Μαγνησία, Σποράδες": {}
+      },
+      "Ιόνια Νησιά": {
+        "Ζάκυνθος": {},
+        "Κέρκυρα": {},
+        "Ιθάκη, Κεφαλληνία": {},
+        "Λευκάδα": {}
+      },
+      "Δυτική Ελλάδα": {
+        "Αιτωλοακαρνανία": {},
+        "Αχαΐα": {},
+        "Ηλεία": {}
+      },
+      "Στερεά Ελλάδα": {
+        "Βοιωτία": {},
+        "Εύβοια": {},
+        "Ευρυτανία": {},
+        "Φθιώτιδα": {},
+        "Φωκίδα": {}
+      },
+      "Πελοπόννησος": {
+        "Αργολίδα, Αρκαδία": {},
+        "Κορινθία": {},
+        "Λακωνία, Μεσσηνία": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "España": {
+    "Noroeste": {
+      "Galicia": {
+        "A Coruña": {},
+        "Lugo": {},
+        "Ourense": {},
+        "Pontevedra": {}
+      },
+      "Principado de Asturias": {
+        "Asturias": {}
+      },
+      "Cantabria": {
+        "Cantabria": {}
+      }
+    },
+    "Noreste": {
+      "País Vasco": {
+        "Araba/Álava": {},
+        "Gipuzkoa": {},
+        "Bizkaia": {}
+      },
+      "Comunidad Foral de Navarra": {
+        "Navarra": {}
+      },
+      "La Rioja": {
+        "La Rioja": {}
+      },
+      "Aragón": {
+        "Huesca": {},
+        "Teruel": {},
+        "Zaragoza": {}
+      }
+    },
+    "Comunidad de Madrid": {
+      "Comunidad de Madrid": {
+        "Madrid": {}
+      }
+    },
+    "Centro (ES)": {
+      "Castilla y León": {
+        "Ávila": {},
+        "Burgos": {},
+        "León": {},
+        "Palencia": {},
+        "Salamanca": {},
+        "Segovia": {},
+        "Soria": {},
+        "Valladolid": {},
+        "Zamora": {}
+      },
+      "Castilla-La Mancha": {
+        "Albacete": {},
+        "Ciudad Real": {},
+        "Cuenca": {},
+        "Guadalajara": {},
+        "Toledo": {}
+      },
+      "Extremadura": {
+        "Badajoz": {},
+        "Cáceres": {}
+      }
+    },
+    "Este": {
+      "Cataluña": {
+        "Barcelona": {},
+        "Girona": {},
+        "Lleida": {},
+        "Tarragona": {}
+      },
+      "Comunitat Valenciana": {
+        "Alicante/Alacant": {},
+        "Castellón/Castelló": {},
+        "Valencia/València": {}
+      },
+      "Illes Balears": {
+        "Eivissa y Formentera": {},
+        "Mallorca": {},
+        "Menorca": {}
+      }
+    },
+    "Sur": {
+      "Andalucía": {
+        "Almería": {},
+        "Cádiz": {},
+        "Córdoba": {},
+        "Granada": {},
+        "Huelva": {},
+        "Jaén": {},
+        "Málaga": {},
+        "Sevilla": {}
+      },
+      "Región de Murcia": {
+        "Murcia": {}
+      },
+      "Ciudad de Ceuta": {
+        "Ceuta": {}
+      },
+      "Ciudad de Melilla": {
+        "Melilla": {}
+      }
+    },
+    "Canarias": {
+      "Canarias": {
+        "El Hierro": {},
+        "Fuerteventura": {},
+        "Gran Canaria": {},
+        "La Gomera": {},
+        "La Palma": {},
+        "Lanzarote": {},
+        "Tenerife": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "France": {
+    "Ile-de-France": {
+      "Ile-de-France": {
+        "Paris": {},
+        "Seine-et-Marne": {},
+        "Yvelines": {},
+        "Essonne": {},
+        "Hauts-de-Seine": {},
+        "Seine-Saint-Denis": {},
+        "Val-de-Marne": {},
+        "Val-d’Oise": {}
+      }
+    },
+    "Centre — Val de Loire": {
+      "Centre — Val de Loire": {
+        "Cher": {},
+        "Eure-et-Loir": {},
+        "Indre": {},
+        "Indre-et-Loire": {},
+        "Loir-et-Cher": {},
+        "Loiret": {}
+      }
+    },
+    "Bourgogne-Franche-Comté": {
+      "Bourgogne": {
+        "Côte-d’Or": {},
+        "Nièvre": {},
+        "Saône-et-Loire": {},
+        "Yonne": {}
+      },
+      "Franche-Comté": {
+        "Doubs": {},
+        "Jura": {},
+        "Haute-Saône": {},
+        "Territoire de Belfort": {}
+      }
+    },
+    "Normandie": {
+      "Basse-Normandie": {
+        "Calvados": {},
+        "Manche": {},
+        "Orne": {}
+      },
+      "Haute-Normandie": {
+        "Eure": {},
+        "Seine-Maritime": {}
+      }
+    },
+    "Hauts-de-France": {
+      "Nord-Pas de Calais": {
+        "Nord": {},
+        "Pas-de-Calais": {}
+      },
+      "Picardie": {
+        "Aisne": {},
+        "Oise": {},
+        "Somme": {}
+      }
+    },
+    "Grand Est": {
+      "Alsace": {
+        "Bas-Rhin": {},
+        "Haut-Rhin": {}
+      },
+      "Champagne-Ardenne": {
+        "Ardennes": {},
+        "Aube": {},
+        "Marne": {},
+        "Haute-Marne": {}
+      },
+      "Lorraine": {
+        "Meurthe-et-Moselle": {},
+        "Meuse": {},
+        "Moselle": {},
+        "Vosges": {}
+      }
+    },
+    "Pays de la Loire": {
+      "Pays de la Loire": {
+        "Loire-Atlantique": {},
+        "Maine-et-Loire": {},
+        "Mayenne": {},
+        "Sarthe": {},
+        "Vendée": {}
+      }
+    },
+    "Bretagne": {
+      "Bretagne": {
+        "Côtes-d’Armor": {},
+        "Finistère": {},
+        "Ille-et-Vilaine": {},
+        "Morbihan": {}
+      }
+    },
+    "Nouvelle-Aquitaine": {
+      "Aquitaine": {
+        "Dordogne": {},
+        "Gironde": {},
+        "Landes": {},
+        "Lot-et-Garonne": {},
+        "Pyrénées-Atlantiques": {}
+      },
+      "Limousin": {
+        "Corrèze": {},
+        "Creuse": {},
+        "Haute-Vienne": {}
+      },
+      "Poitou-Charentes": {
+        "Charente": {},
+        "Charente-Maritime": {},
+        "Deux-Sèvres": {},
+        "Vienne": {}
+      }
+    },
+    "Occitanie": {
+      "Languedoc-Roussillon": {
+        "Aude": {},
+        "Gard": {},
+        "Hérault": {},
+        "Lozère": {},
+        "Pyrénées-Orientales": {}
+      },
+      "Midi-Pyrénées": {
+        "Ariège": {},
+        "Aveyron": {},
+        "Haute-Garonne": {},
+        "Gers": {},
+        "Lot": {},
+        "Hautes-Pyrénées": {},
+        "Tarn": {},
+        "Tarn-et-Garonne": {}
+      }
+    },
+    "Auvergne-Rhône-Alpes": {
+      "Auvergne": {
+        "Allier": {},
+        "Cantal": {},
+        "Haute-Loire": {},
+        "Puy-de-Dôme": {}
+      },
+      "Rhône-Alpes": {
+        "Ain": {},
+        "Ardèche": {},
+        "Drôme": {},
+        "Isère": {},
+        "Loire": {},
+        "Rhône": {},
+        "Savoie": {},
+        "Haute-Savoie": {}
+      }
+    },
+    "Provence-Alpes-Côte d’Azur": {
+      "Provence-Alpes-Côte d’Azur": {
+        "Alpes-de-Haute-Provence": {},
+        "Hautes-Alpes": {},
+        "Alpes-Maritimes": {},
+        "Bouches-du-Rhône": {},
+        "Var": {},
+        "Vaucluse": {}
+      }
+    },
+    "Corse": {
+      "Corse": {
+        "Corse-du-Sud": {},
+        "Haute-Corse": {}
+      }
+    },
+    "RUP FR — Régions Ultrapériphériques Françaises": {
+      "Guadeloupe": {
+        "Guadeloupe": {}
+      },
+      "Martinique": {
+        "Martinique": {}
+      },
+      "Guyane": {
+        "Guyane": {}
+      },
+      "La Réunion": {
+        "La Réunion": {}
+      },
+      "Mayotte": {
+        "Mayotte": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Hrvatska": {
+    "Hrvatska": {
+      "Jadranska Hrvatska": {
+        "Primorsko-goranska županija": {},
+        "Ličko-senjska županija": {},
+        "Zadarska županija": {},
+        "Šibensko-kninska županija": {},
+        "Splitsko-dalmatinska županija": {},
+        "Istarska županija": {},
+        "Dubrovačko-neretvanska županija": {}
+      },
+      "Grad Zagreb": {
+        "Grad Zagreb": {}
+      },
+      "Sjeverna Hrvatska": {
+        "Međimurska županija": {},
+        "Varaždinska županija": {},
+        "Koprivničko-križevačka županija": {},
+        "Krapinsko-zagorska županija": {},
+        "Zagrebačka županija": {}
+      },
+      "Panonska Hrvatska": {
+        "Bjelovarsko-bilogorska županija": {},
+        "Virovitičko-podravska županija": {},
+        "Požeško-slavonska županija": {},
+        "Brodsko-posavska županija": {},
+        "Osječko-baranjska županija": {},
+        "Vukovarsko-srijemska županija": {},
+        "Karlovačka županija": {},
+        "Sisačko-moslavačka županija": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Italia": {
+    "Nord-Ovest": {
+      "Piemonte": {
+        "Torino": {},
+        "Vercelli": {},
+        "Biella": {},
+        "Verbano-Cusio-Ossola": {},
+        "Novara": {},
+        "Cuneo": {},
+        "Asti": {},
+        "Alessandria": {}
+      },
+      "Valle d’Aosta/Vallée d’Aoste": {
+        "Valle d’Aosta/Vallée d’Aoste": {}
+      },
+      "Liguria": {
+        "Imperia": {},
+        "Savona": {},
+        "Genova": {},
+        "La Spezia": {}
+      },
+      "Lombardia": {
+        "Varese": {},
+        "Como": {},
+        "Lecco": {},
+        "Sondrio": {},
+        "Bergamo": {},
+        "Brescia": {},
+        "Pavia": {},
+        "Lodi": {},
+        "Cremona": {},
+        "Mantova": {},
+        "Milano": {},
+        "Monza e della Brianza": {}
+      }
+    },
+    "Sud": {
+      "Abruzzo": {
+        "L’Aquila": {},
+        "Teramo": {},
+        "Pescara": {},
+        "Chieti": {}
+      },
+      "Molise": {
+        "Isernia": {},
+        "Campobasso": {}
+      },
+      "Campania": {
+        "Caserta": {},
+        "Benevento": {},
+        "Napoli": {},
+        "Avellino": {},
+        "Salerno": {}
+      },
+      "Puglia": {
+        "Taranto": {},
+        "Brindisi": {},
+        "Lecce": {},
+        "Foggia": {},
+        "Bari": {},
+        "Barletta-Andria-Trani": {}
+      },
+      "Basilicata": {
+        "Potenza": {},
+        "Matera": {}
+      },
+      "Calabria": {
+        "Cosenza": {},
+        "Crotone": {},
+        "Catanzaro": {},
+        "Vibo Valentia": {},
+        "Reggio di Calabria": {}
+      }
+    },
+    "Isole": {
+      "Sicilia": {
+        "Trapani": {},
+        "Palermo": {},
+        "Messina": {},
+        "Agrigento": {},
+        "Caltanissetta": {},
+        "Enna": {},
+        "Catania": {},
+        "Ragusa": {},
+        "Siracusa": {}
+      },
+      "Sardegna": {
+        "Sassari": {},
+        "Nuoro": {},
+        "Cagliari": {},
+        "Oristano": {},
+        "Sud Sardegna": {}
+      }
+    },
+    "Nord-Est": {
+      "Provincia Autonoma di Bolzano/Bozen": {
+        "Bolzano-Bozen": {}
+      },
+      "Provincia Autonoma di Trento": {
+        "Trento": {}
+      },
+      "Veneto": {
+        "Verona": {},
+        "Vicenza": {},
+        "Belluno": {},
+        "Treviso": {},
+        "Venezia": {},
+        "Padova": {},
+        "Rovigo": {}
+      },
+      "Friuli-Venezia Giulia": {
+        "Pordenone": {},
+        "Udine": {},
+        "Gorizia": {},
+        "Trieste": {}
+      },
+      "Emilia-Romagna": {
+        "Piacenza": {},
+        "Parma": {},
+        "Reggio nell’Emilia": {},
+        "Modena": {},
+        "Bologna": {},
+        "Ferrara": {},
+        "Ravenna": {},
+        "Forlì-Cesena": {},
+        "Rimini": {}
+      }
+    },
+    "Centro (IT)": {
+      "Toscana": {
+        "Massa-Carrara": {},
+        "Lucca": {},
+        "Pistoia": {},
+        "Firenze": {},
+        "Prato": {},
+        "Livorno": {},
+        "Pisa": {},
+        "Arezzo": {},
+        "Siena": {},
+        "Grosseto": {}
+      },
+      "Umbria": {
+        "Perugia": {},
+        "Terni": {}
+      },
+      "Marche": {
+        "Pesaro e Urbino": {},
+        "Ancona": {},
+        "Macerata": {},
+        "Ascoli Piceno": {},
+        "Fermo": {}
+      },
+      "Lazio": {
+        "Viterbo": {},
+        "Rieti": {},
+        "Roma": {},
+        "Latina": {},
+        "Frosinone": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Κύπρος": {
+    "Κύπρος": {
+      "Κύπρος": {
+        "Κύπρος": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Latvija": {
+    "Latvija": {
+      "Latvija": {
+        "Kurzeme": {},
+        "Latgale": {},
+        "Rīga": {},
+        "Pierīga": {},
+        "Vidzeme": {},
+        "Zemgale": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Lietuva": {
+    "Lietuva": {
+      "Sostinės regionas": {
+        "Vilniaus apskritis": {}
+      },
+      "Vidurio ir vakarų Lietuvos regionas": {
+        "Alytaus apskritis": {},
+        "Kauno apskritis": {},
+        "Klaipėdos apskritis": {},
+        "Marijampolės apskritis": {},
+        "Panevėžio apskritis": {},
+        "Šiaulių apskritis": {},
+        "Tauragės apskritis": {},
+        "Telšių apskritis": {},
+        "Utenos apskritis": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Luxembourg": {
+    "Luxembourg": {
+      "Luxembourg": {
+        "Luxembourg": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Magyarország": {
+    "Közép-Magyarország": {
+      "Budapest": {
+        "Budapest": {}
+      },
+      "Pest": {
+        "Pest": {}
+      }
+    },
+    "Dunántúl": {
+      "Közép-Dunántúl": {
+        "Fejér": {},
+        "Komárom-Esztergom": {},
+        "Veszprém": {}
+      },
+      "Nyugat-Dunántúl": {
+        "Győr-Moson-Sopron": {},
+        "Vas": {},
+        "Zala": {}
+      },
+      "Dél-Dunántúl": {
+        "Baranya": {},
+        "Somogy": {},
+        "Tolna": {}
+      }
+    },
+    "Alföld és Észak": {
+      "Észak-Magyarország": {
+        "Borsod-Abaúj-Zemplén": {},
+        "Heves": {},
+        "Nógrád": {}
+      },
+      "Észak-Alföld": {
+        "Hajdú-Bihar": {},
+        "Jász-Nagykun-Szolnok": {},
+        "Szabolcs-Szatmár-Bereg": {}
+      },
+      "Dél-Alföld": {
+        "Bács-Kiskun": {},
+        "Békés": {},
+        "Csongrád": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Malta": {
+    "Malta": {
+      "Malta": {
+        "Malta": {},
+        "Gozo and Comino/Għawdex u Kemmuna": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Nederland": {
+    "Noord-Nederland": {
+      "Groningen": {
+        "Oost-Groningen": {},
+        "Delfzijl en omgeving": {},
+        "Overig Groningen": {}
+      },
+      "Friesland (NL)": {
+        "Noord-Friesland": {},
+        "Zuidwest-Friesland": {},
+        "Zuidoost-Friesland": {}
+      },
+      "Drenthe": {
+        "Noord-Drenthe": {},
+        "Zuidoost-Drenthe": {},
+        "Zuidwest-Drenthe": {}
+      }
+    },
+    "Oost-Nederland": {
+      "Overijssel": {
+        "Noord-Overijssel": {},
+        "Zuidwest-Overijssel": {},
+        "Twente": {}
+      },
+      "Gelderland": {
+        "Veluwe": {},
+        "Zuidwest-Gelderland": {},
+        "Achterhoek": {},
+        "Arnhem/Nijmegen": {}
+      },
+      "Flevoland": {
+        "Flevoland": {}
+      }
+    },
+    "West-Nederland": {
+      "Utrecht": {
+        "Utrecht": {}
+      },
+      "Noord-Holland": {
+        "Kop van Noord-Holland": {},
+        "IJmond": {},
+        "Agglomeratie Haarlem": {},
+        "Zaanstreek": {},
+        "Het Gooi en Vechtstreek": {},
+        "Alkmaar en omgeving": {},
+        "Groot-Amsterdam": {}
+      },
+      "Zuid-Holland": {
+        "Agglomeratie ’s-Gravenhage": {},
+        "Delft en Westland": {},
+        "Agglomeratie Leiden en Bollenstreek": {},
+        "Zuidoost-Zuid-Holland": {},
+        "Oost-Zuid-Holland": {},
+        "Groot-Rijnmond": {}
+      },
+      "Zeeland": {
+        "Zeeuwsch-Vlaanderen": {},
+        "Overig Zeeland": {}
+      }
+    },
+    "Zuid-Nederland": {
+      "Noord-Brabant": {
+        "West-Noord-Brabant": {},
+        "Midden-Noord-Brabant": {},
+        "Noordoost-Noord-Brabant": {},
+        "Zuidoost-Noord-Brabant": {}
+      },
+      "Limburg (NL)": {
+        "Noord-Limburg": {},
+        "Midden-Limburg": {},
+        "Zuid-Limburg": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Österreich": {
+    "Ostösterreich": {
+      "Burgenland": {
+        "Mittelburgenland": {},
+        "Nordburgenland": {},
+        "Südburgenland": {}
+      },
+      "Niederösterreich": {
+        "Mostviertel-Eisenwurzen": {},
+        "Niederösterreich-Süd": {},
+        "Sankt Pölten": {},
+        "Waldviertel": {},
+        "Weinviertel": {},
+        "Wiener Umland/Nordteil": {},
+        "Wiener Umland/Südteil": {}
+      },
+      "Wien": {
+        "Wien": {}
+      }
+    },
+    "Südösterreich": {
+      "Kärnten": {
+        "Klagenfurt-Villach": {},
+        "Oberkärnten": {},
+        "Unterkärnten": {}
+      },
+      "Steiermark": {
+        "Graz": {},
+        "Liezen": {},
+        "Östliche Obersteiermark": {},
+        "Oststeiermark": {},
+        "West- und Südsteiermark": {},
+        "Westliche Obersteiermark": {}
+      }
+    },
+    "Westösterreich": {
+      "Oberösterreich": {
+        "Innviertel": {},
+        "Linz-Wels": {},
+        "Mühlviertel": {},
+        "Steyr-Kirchdorf": {},
+        "Traunviertel": {}
+      },
+      "Salzburg": {
+        "Lungau": {},
+        "Pinzgau-Pongau": {},
+        "Salzburg und Umgebung": {}
+      },
+      "Tirol": {
+        "Außerfern": {},
+        "Innsbruck": {},
+        "Osttirol": {},
+        "Tiroler Oberland": {},
+        "Tiroler Unterland": {}
+      },
+      "Vorarlberg": {
+        "Bludenz-Bregenzer Wald": {},
+        "Rheintal-Bodenseegebiet": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Polska": {
+    "Makroregion południowy": {
+      "Małopolskie": {
+        "Miasto Kraków": {},
+        "Krakowski": {},
+        "Tarnowski": {},
+        "Nowosądecki": {},
+        "Nowotarski": {},
+        "Oświęcimski": {}
+      },
+      "Śląskie": {
+        "Częstochowski": {},
+        "Bielski": {},
+        "Rybnicki": {},
+        "Bytomski": {},
+        "Gliwicki": {},
+        "Katowicki": {},
+        "Sosnowiecki": {},
+        "Tyski": {}
+      }
+    },
+    "Makroregion północno-zachodni": {
+      "Wielkopolskie": {
+        "Pilski": {},
+        "Koniński": {},
+        "Miasto Poznań": {},
+        "Kaliski": {},
+        "Leszczyński": {},
+        "Poznański": {}
+      },
+      "Zachodniopomorskie": {
+        "Miasto Szczecin": {},
+        "Koszaliński": {},
+        "Szczecinecko-pyrzycki": {},
+        "Szczeciński": {}
+      },
+      "Lubuskie": {
+        "Gorzowski": {},
+        "Zielonogórski": {}
+      }
+    },
+    "Makroregion południowo-zachodni": {
+      "Dolnośląskie": {
+        "Miasto Wrocław": {},
+        "Jeleniogórski": {},
+        "Legnicko-głogowski": {},
+        "Wałbrzyski": {},
+        "Wrocławski": {}
+      },
+      "Opolskie": {
+        "Nyski": {},
+        "Opolski": {}
+      }
+    },
+    "Makroregion północny": {
+      "Kujawsko-pomorskie": {
+        "Bydgosko-toruński": {},
+        "Grudziądzki": {},
+        "Inowrocławski": {},
+        "Świecki": {},
+        "Włocławski": {}
+      },
+      "Warmińsko-mazurskie": {
+        "Elbląski": {},
+        "Olsztyński": {},
+        "Ełcki": {}
+      },
+      "Pomorskie": {
+        "Trójmiejski": {},
+        "Gdański": {},
+        "Słupski": {},
+        "Chojnicki": {},
+        "Starogardzki": {}
+      }
+    },
+    "Makroregion centralny": {
+      "Łódzkie": {
+        "Miasto Łódź": {},
+        "Łódzki": {},
+        "Piotrkowski": {},
+        "Sieradzki": {},
+        "Skierniewicki": {}
+      },
+      "Świętokrzyskie": {
+        "Kielecki": {},
+        "Sandomiersko-jędrzejowski": {}
+      }
+    },
+    "Makroregion wschodni": {
+      "Lubelskie": {
+        "Bialski": {},
+        "Chełmsko-zamojski": {},
+        "Lubelski": {},
+        "Puławski": {}
+      },
+      "Podkarpackie": {
+        "Krośnieński": {},
+        "Przemyski": {},
+        "Rzeszowski": {},
+        "Tarnobrzeski": {}
+      },
+      "Podlaskie": {
+        "Białostocki": {},
+        "Łomżyński": {},
+        "Suwalski": {}
+      }
+    },
+    "Makroregion województwo mazowieckie": {
+      "Warszawski stołeczny": {
+        "Miasto Warszawa": {},
+        "Warszawski wschodni": {},
+        "Warszawski zachodni": {}
+      },
+      "Mazowiecki regionalny": {
+        "Radomski": {},
+        "Ciechanowski": {},
+        "Płocki": {},
+        "Ostrołęcki": {},
+        "Siedlecki": {},
+        "Żyrardowski": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Portugal": {
+    "Continente": {
+      "Norte": {
+        "Alto Minho": {},
+        "Cávado": {},
+        "Ave": {},
+        "Área Metropolitana do Porto": {},
+        "Alto Tâmega": {},
+        "Tâmega e Sousa": {},
+        "Douro": {},
+        "Terras de Trás-os-Montes": {}
+      },
+      "Algarve": {
+        "Algarve": {}
+      },
+      "Centro (PT)": {
+        "Oeste": {},
+        "Região de Aveiro": {},
+        "Região de Coimbra": {},
+        "Região de Leiria": {},
+        "Viseu Dão Lafões": {},
+        "Beira Baixa": {},
+        "Médio Tejo": {},
+        "Beiras e Serra da Estrela": {}
+      },
+      "Área Metropolitana de Lisboa": {
+        "Área Metropolitana de Lisboa": {}
+      },
+      "Alentejo": {
+        "Alentejo Litoral": {},
+        "Baixo Alentejo": {},
+        "Lezíria do Tejo": {},
+        "Alto Alentejo": {},
+        "Alentejo Central": {}
+      }
+    },
+    "Região Autónoma dos Açores": {
+      "Região Autónoma dos Açores": {
+        "Região Autónoma dos Açores": {}
+      }
+    },
+    "Região Autónoma da Madeira": {
+      "Região Autónoma da Madeira": {
+        "Região Autónoma da Madeira": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "România": {
+    "Macroregiunea Unu": {
+      "Nord-Vest": {
+        "Bihor": {},
+        "Bistriţa-Năsăud": {},
+        "Cluj": {},
+        "Maramureş": {},
+        "Satu Mare": {},
+        "Sălaj": {}
+      },
+      "Centru": {
+        "Alba": {},
+        "Braşov": {},
+        "Covasna": {},
+        "Harghita": {},
+        "Mureş": {},
+        "Sibiu": {}
+      }
+    },
+    "Macroregiunea Doi": {
+      "Nord-Est": {
+        "Bacău": {},
+        "Botoşani": {},
+        "Iaşi": {},
+        "Neamţ": {},
+        "Suceava": {},
+        "Vaslui": {}
+      },
+      "Sud-Est": {
+        "Brăila": {},
+        "Buzău": {},
+        "Constanţa": {},
+        "Galaţi": {},
+        "Tulcea": {},
+        "Vrancea": {}
+      }
+    },
+    "Macroregiunea Trei": {
+      "Sud-Muntenia": {
+        "Argeş": {},
+        "Călăraşi": {},
+        "Dâmboviţa": {},
+        "Giurgiu": {},
+        "Ialomiţa": {},
+        "Prahova": {},
+        "Teleorman": {}
+      },
+      "Bucureşti-Ilfov": {
+        "Bucureşti": {},
+        "Ilfov": {}
+      }
+    },
+    "Macroregiunea Patru": {
+      "Sud-Vest Oltenia": {
+        "Dolj": {},
+        "Gorj": {},
+        "Mehedinţi": {},
+        "Olt": {},
+        "Vâlcea": {}
+      },
+      "Vest": {
+        "Arad": {},
+        "Caraş-Severin": {},
+        "Hunedoara": {},
+        "Timiş": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Slovenija": {
+    "Slovenija": {
+      "Vzhodna Slovenija": {
+        "Pomurska": {},
+        "Podravska": {},
+        "Koroška": {},
+        "Savinjska": {},
+        "Zasavska": {},
+        "Posavska": {},
+        "Jugovzhodna Slovenija": {},
+        "Primorsko-notranjska": {}
+      },
+      "Zahodna Slovenija": {
+        "Osrednjeslovenska": {},
+        "Gorenjska": {},
+        "Goriška": {},
+        "Obalno-kraška": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Slovensko": {
+    "Slovensko": {
+      "Bratislavský kraj": {
+        "Bratislavský kraj": {}
+      },
+      "Západné Slovensko": {
+        "Trnavský kraj": {},
+        "Trenčiansky kraj": {},
+        "Nitriansky kraj": {}
+      },
+      "Stredné Slovensko": {
+        "Žilinský kraj": {},
+        "Banskobystrický kraj": {}
+      },
+      "Východné Slovensko": {
+        "Prešovský kraj": {},
+        "Košický kraj": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Suomi/Finland": {
+    "Manner-Suomi": {
+      "Länsi-Suomi": {
+        "Keski-Suomi": {},
+        "Etelä-Pohjanmaa": {},
+        "Pohjanmaa": {},
+        "Satakunta": {},
+        "Pirkanmaa": {}
+      },
+      "Helsinki-Uusimaa": {
+        "Helsinki-Uusimaa": {}
+      },
+      "Etelä-Suomi": {
+        "Varsinais-Suomi": {},
+        "Kanta-Häme": {},
+        "Päijät-Häme": {},
+        "Kymenlaakso": {},
+        "Etelä-Karjala": {}
+      },
+      "Pohjois- ja Itä-Suomi": {
+        "Etelä-Savo": {},
+        "Pohjois-Savo": {},
+        "Pohjois-Karjala": {},
+        "Keski-Pohjanmaa": {},
+        "Lappi": {},
+        "Kainuu": {},
+        "Pohjois-Pohjanmaa": {}
+      }
+    },
+    "Åland": {
+      "Åland": {
+        "Åland": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Sverige": {
+    "Östra Sverige": {
+      "Stockholm": {
+        "Stockholms län": {}
+      },
+      "Östra Mellansverige": {
+        "Uppsala län": {},
+        "Södermanlands län": {},
+        "Östergötlands län": {},
+        "Örebro län": {},
+        "Västmanlands län": {}
+      }
+    },
+    "Södra Sverige": {
+      "Småland med öarna": {
+        "Jönköpings län": {},
+        "Kronobergs län": {},
+        "Kalmar län": {},
+        "Gotlands län": {}
+      },
+      "Sydsverige": {
+        "Blekinge län": {},
+        "Skåne län": {}
+      },
+      "Västsverige": {
+        "Hallands län": {},
+        "Västra Götalands län": {}
+      }
+    },
+    "Norra Sverige": {
+      "Norra Mellansverige": {
+        "Värmlands län": {},
+        "Dalarnas län": {},
+        "Gävleborgs län": {}
+      },
+      "Mellersta Norrland": {
+        "Västernorrlands län": {},
+        "Jämtlands län": {}
+      },
+      "Övre Norrland": {
+        "Västerbottens län": {},
+        "Norrbottens län": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "United Kingdom": {
+    "North East (England)": {
+      "Tees Valley and Durham": {
+        "Hartlepool and Stockton-on-Tees": {},
+        "South Teesside": {},
+        "Darlington": {},
+        "Durham CC": {}
+      },
+      "Northumberland and Tyne and Wear": {
+        "Northumberland": {},
+        "Tyneside": {},
+        "Sunderland": {}
+      }
+    },
+    "North West (England)": {
+      "Cumbria": {
+        "West Cumbria": {},
+        "East Cumbria": {}
+      },
+      "Greater Manchester": {
+        "Manchester": {},
+        "Greater Manchester South West": {},
+        "Greater Manchester South East": {},
+        "Greater Manchester North West": {},
+        "Greater Manchester North East": {}
+      },
+      "Lancashire": {
+        "Blackburn with Darwen": {},
+        "Blackpool": {},
+        "Lancaster and Wyre": {},
+        "Mid Lancashire": {},
+        "East Lancashire": {},
+        "Chorley and West Lancashire": {}
+      },
+      "Cheshire": {
+        "Warrington": {},
+        "Cheshire East": {},
+        "Cheshire West and Chester": {}
+      },
+      "Merseyside": {
+        "East Merseyside": {},
+        "Liverpool": {},
+        "Sefton": {},
+        "Wirral": {}
+      }
+    },
+    "Yorkshire and the Humber": {
+      "East Yorkshire and Northern Lincolnshire": {
+        "Kingston upon Hull, City of": {},
+        "East Riding of Yorkshire": {},
+        "North and North East Lincolnshire": {}
+      },
+      "North Yorkshire": {
+        "York": {},
+        "North Yorkshire CC": {}
+      },
+      "South Yorkshire": {
+        "Barnsley, Doncaster and Rotherham": {},
+        "Sheffield": {}
+      },
+      "West Yorkshire": {
+        "Bradford": {},
+        "Leeds": {},
+        "Calderdale and Kirklees": {},
+        "Wakefield": {}
+      }
+    },
+    "East Midlands (England)": {
+      "Derbyshire and Nottinghamshire": {
+        "Derby": {},
+        "East Derbyshire": {},
+        "South and West Derbyshire": {},
+        "Nottingham": {},
+        "North Nottinghamshire": {},
+        "South Nottinghamshire": {}
+      },
+      "Leicestershire, Rutland and Northamptonshire": {
+        "Leicester": {},
+        "Leicestershire CC and Rutland": {},
+        "West Northamptonshire": {},
+        "North Northamptonshire": {}
+      },
+      "Lincolnshire": {
+        "Lincolnshire": {}
+      }
+    },
+    "West Midlands (England)": {
+      "Herefordshire, Worcestershire and Warwickshire": {
+        "Herefordshire, County of": {},
+        "Worcestershire": {},
+        "Warwickshire": {}
+      },
+      "Shropshire and Staffordshire": {
+        "Telford and Wrekin": {},
+        "Shropshire CC": {},
+        "Stoke-on-Trent": {},
+        "Staffordshire CC": {}
+      },
+      "West Midlands": {
+        "Birmingham": {},
+        "Solihull": {},
+        "Coventry": {},
+        "Dudley": {},
+        "Sandwell": {},
+        "Walsall": {},
+        "Wolverhampton": {}
+      }
+    },
+    "East of England": {
+      "East Anglia": {
+        "Peterborough": {},
+        "Cambridgeshire CC": {},
+        "Suffolk": {},
+        "Norwich and East Norfolk": {},
+        "North and West Norfolk": {},
+        "Breckland and South Norfolk": {}
+      },
+      "Bedfordshire and Hertfordshire": {
+        "Luton": {},
+        "Hertfordshire": {},
+        "Bedford": {},
+        "Central Bedfordshire": {}
+      },
+      "Essex": {
+        "Southend-on-Sea": {},
+        "Thurrock": {},
+        "Essex Haven Gateway": {},
+        "West Essex": {},
+        "Heart of Essex": {},
+        "Essex Thames Gateway": {}
+      }
+    },
+    "London": {
+      "Inner London — West": {
+        "Camden and City of London": {},
+        "Westminster": {},
+        "Kensington & Chelsea and Hammersmith & Fulham": {},
+        "Wandsworth": {}
+      },
+      "Inner London — East": {
+        "Hackney and Newham": {},
+        "Tower Hamlets": {},
+        "Haringey and Islington": {},
+        "Lewisham and Southwark": {},
+        "Lambeth": {}
+      },
+      "Outer London — East and North East": {
+        "Bexley and Greenwich": {},
+        "Barking & Dagenham and Havering": {},
+        "Redbridge and Waltham Forest": {},
+        "Enfield": {}
+      },
+      "Outer London — South": {
+        "Bromley": {},
+        "Croydon": {},
+        "Merton, Kingston upon Thames and Sutton": {}
+      },
+      "Outer London — West and North West": {
+        "Barnet": {},
+        "Brent": {},
+        "Ealing": {},
+        "Harrow and Hillingdon": {},
+        "Hounslow and Richmond upon Thames": {}
+      }
+    },
+    "South East (England)": {
+      "Berkshire, Buckinghamshire and Oxfordshire": {
+        "Berkshire": {},
+        "Milton Keynes": {},
+        "Buckinghamshire CC": {},
+        "Oxfordshire": {}
+      },
+      "Surrey, East and West Sussex": {
+        "Brighton and Hove": {},
+        "East Sussex CC": {},
+        "West Surrey": {},
+        "East Surrey": {},
+        "West Sussex (South West)": {},
+        "West Sussex (North East)": {}
+      },
+      "Hampshire and Isle of Wight": {
+        "Portsmouth": {},
+        "Southampton": {},
+        "Isle of Wight": {},
+        "South Hampshire": {},
+        "Central Hampshire": {},
+        "North Hampshire": {}
+      },
+      "Kent": {
+        "Medway": {},
+        "Kent Thames Gateway": {},
+        "East Kent": {},
+        "Mid Kent": {},
+        "West Kent": {}
+      }
+    },
+    "South West (England)": {
+      "Gloucestershire, Wiltshire and Bristol/Bath area": {
+        "Bristol, City of": {},
+        "Bath and North East Somerset, North Somerset and South Gloucestershire": {},
+        "Gloucestershire": {},
+        "Swindon": {},
+        "Wiltshire CC": {}
+      },
+      "Dorset and Somerset": {
+        "Somerset": {},
+        "Bournemouth, Christchurch and Poole": {},
+        "Dorset": {}
+      },
+      "Cornwall and Isles of Scilly": {
+        "Cornwall and Isles of Scilly": {}
+      },
+      "Devon": {
+        "Plymouth": {},
+        "Torbay": {},
+        "Devon CC": {}
+      }
+    },
+    "Wales": {
+      "West Wales and The Valleys": {
+        "Isle of Anglesey": {},
+        "Gwynedd": {},
+        "Conwy and Denbighshire": {},
+        "South West Wales": {},
+        "Central Valleys": {},
+        "Gwent Valleys": {},
+        "Bridgend and Neath Port Talbot": {},
+        "Swansea": {}
+      },
+      "East Wales": {
+        "Monmouthshire and Newport": {},
+        "Cardiff and Vale of Glamorgan": {},
+        "Flintshire and Wrexham": {},
+        "Powys": {}
+      }
+    },
+    "Scotland": {
+      "North Eastern Scotland": {
+        "Aberdeen City and Aberdeenshire": {}
+      },
+      "Highlands and Islands": {
+        "Caithness & Sutherland and Ross & Cromarty": {},
+        "Inverness & Nairn and Moray, Badenoch & Strathspey": {},
+        "Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute": {},
+        "Na h-Eileanan Siar (Western Isles)": {},
+        "Orkney Islands": {},
+        "Shetland Islands": {}
+      },
+      "Eastern Scotland": {
+        "Angus and Dundee City": {},
+        "Clackmannanshire and Fife": {},
+        "East Lothian and Midlothian": {},
+        "Edinburgh, City of": {},
+        "Falkirk": {},
+        "Perth & Kinross and Stirling": {},
+        "West Lothian": {}
+      },
+      "West Central Scotland": {
+        "East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond": {},
+        "Glasgow City": {},
+        "Inverclyde, East Renfrewshire and Renfrewshire": {},
+        "North Lanarkshire": {}
+      },
+      "Southern Scotland": {
+        "Scottish Borders": {},
+        "Dumfries & Galloway": {},
+        "East Ayrshire and North Ayrshire mainland": {},
+        "South Ayrshire": {},
+        "South Lanarkshire": {}
+      }
+    },
+    "Northern Ireland": {
+      "Northern Ireland": {
+        "Belfast": {},
+        "Armagh City, Banbridge and Craigavon": {},
+        "Newry, Mourne and Down": {},
+        "Ards and North Down": {},
+        "Derry City and Strabane": {},
+        "Mid Ulster": {},
+        "Causeway Coast and Glens": {},
+        "Antrim and Newtownabbey": {},
+        "Lisburn and Castlereagh": {},
+        "Mid and East Antrim": {},
+        "Fermanagh and Omagh": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Ísland": {
+    "Ísland": {
+      "Ísland": {
+        "Höfuðborgarsvæði": {},
+        "Landsbyggð": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Liechtenstein": {
+    "Liechtenstein": {
+      "Liechtenstein": {
+        "Liechtenstein": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Norge": {
+    "Norge": {
+      "Innlandet": {
+        "Innlandet": {}
+      },
+      "Trøndelag": {
+        "Trøndelag": {}
+      },
+      "Nord-Norge": {
+        "Nordland": {},
+        "Troms og Finnmark": {}
+      },
+      "Oslo og Viken": {
+        "Oslo": {},
+        "Viken": {}
+      },
+      "Agder og Sør-Østlandet": {
+        "Vestfold og Telemark": {},
+        "Agder": {}
+      },
+      "Vestlandet": {
+        "Rogaland": {},
+        "Vestland": {},
+        "Møre og Romsdal": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Schweiz/Suisse/Svizzera": {
+    "Schweiz/Suisse/Svizzera": {
+      "Région lémanique": {
+        "Vaud": {},
+        "Valais": {},
+        "Genève": {}
+      },
+      "Espace Mittelland": {
+        "Bern": {},
+        "Freiburg": {},
+        "Solothurn": {},
+        "Neuchâtel": {},
+        "Jura": {}
+      },
+      "Nordwestschweiz": {
+        "Basel-Stadt": {},
+        "Basel-Landschaft": {},
+        "Aargau": {}
+      },
+      "Zürich": {
+        "Zürich": {}
+      },
+      "Ostschweiz": {
+        "Glarus": {},
+        "Schaffhausen": {},
+        "Appenzell Ausserrhoden": {},
+        "Appenzell Innerrhoden": {},
+        "St. Gallen": {},
+        "Graubünden": {},
+        "Thurgau": {}
+      },
+      "Zentralschweiz": {
+        "Luzern": {},
+        "Uri": {},
+        "Schwyz": {},
+        "Obwalden": {},
+        "Nidwalden": {},
+        "Zug": {}
+      },
+      "Ticino": {
+        "Ticino": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Црна Гора": {
+    "Црна Гора": {
+      "Црна Гора": {
+        "Црна Гора": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Северна Македонија": {
+    "Северна Македонија": {
+      "Северна Македонија": {
+        "Вардарски": {},
+        "Источен": {},
+        "Југозападен": {},
+        "Југоисточен": {},
+        "Пелагониски": {},
+        "Полошки": {},
+        "Североисточен": {},
+        "Скопски": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Shqipëria": {
+    "Shqipëria": {
+      "Veri": {
+        "Dibër": {},
+        "Durrës": {},
+        "Kukës": {},
+        "Lezhë": {},
+        "Shkodër": {}
+      },
+      "Qender": {
+        "Elbasan": {},
+        "Tiranë": {}
+      },
+      "Jug": {
+        "Berat": {},
+        "Fier": {},
+        "Gjirokastër": {},
+        "Korcë": {},
+        "Vlorë": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Srbija/Сpбија": {
+    "Србија - север": {
+      "Београдски регион": {
+        "Београдска област": {}
+      },
+      "Регион Војводине": {
+        "Западнобачка област": {},
+        "Јужнобанатска област": {},
+        "Јужнобачка област": {},
+        "Севернобанатска област": {},
+        "Севернобачка област": {},
+        "Средњобанатска област": {},
+        "Сремска област": {}
+      }
+    },
+    "Србија - југ": {
+      "Регион Шумадије и Западне Србије": {
+        "Златиборска област": {},
+        "Колубарска област": {},
+        "Мачванска област": {},
+        "Моравичка област": {},
+        "Поморавска област": {},
+        "Расинска област": {},
+        "Рашка област": {},
+        "Шумадијска област": {}
+      },
+      "Регион Јужне и Источне Србије": {
+        "Борска област": {},
+        "Браничевска област": {},
+        "Зајечарска област": {},
+        "Јабланичка област": {},
+        "Нишавска област": {},
+        "Пиротска област": {},
+        "Подунавска област": {},
+        "Пчињска област": {},
+        "Топличка област": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  },
+  "Türkiye": {
+    "İstanbul": {
+      "İstanbul": {
+        "İstanbul": {}
+      }
+    },
+    "Batı Marmara": {
+      "Tekirdağ, Edirne, Kırklareli": {
+        "Tekirdağ": {},
+        "Edirne": {},
+        "Kırklareli": {}
+      },
+      "Balıkesir, Çanakkale": {
+        "Balıkesir": {},
+        "Çanakkale": {}
+      }
+    },
+    "Ege": {
+      "İzmir": {
+        "İzmir": {}
+      },
+      "Aydın, Denizli, Muğla": {
+        "Aydın": {},
+        "Denizli": {},
+        "Muğla": {}
+      },
+      "Manisa, Afyonkarahisar, Kütahya, Uşak": {
+        "Manisa": {},
+        "Afyonkarahisar": {},
+        "Kütahya": {},
+        "Uşak": {}
+      }
+    },
+    "Doğu Marmara": {
+      "Bursa, Eskişehir, Bilecik": {
+        "Bursa": {},
+        "Eskişehir": {},
+        "Bilecik": {}
+      },
+      "Kocaeli, Sakarya, Düzce, Bolu, Yalova": {
+        "Kocaeli": {},
+        "Sakarya": {},
+        "Düzce": {},
+        "Bolu": {},
+        "Yalova": {}
+      }
+    },
+    "Batı Anadolu": {
+      "Ankara": {
+        "Ankara": {}
+      },
+      "Konya, Karaman": {
+        "Konya": {},
+        "Karaman": {}
+      }
+    },
+    "Akdeniz": {
+      "Antalya, Isparta, Burdur": {
+        "Antalya": {},
+        "Isparta": {},
+        "Burdur": {}
+      },
+      "Adana, Mersin": {
+        "Adana": {},
+        "Mersin": {}
+      },
+      "Hatay, Kahramanmaraş, Osmaniye": {
+        "Hatay": {},
+        "Kahramanmaraş": {},
+        "Osmaniye": {}
+      }
+    },
+    "Orta Anadolu": {
+      "Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir": {
+        "Kırıkkale": {},
+        "Aksaray": {},
+        "Niğde": {},
+        "Nevşehir": {},
+        "Kırşehir": {}
+      },
+      "Kayseri, Sivas, Yozgat": {
+        "Kayseri": {},
+        "Sivas": {},
+        "Yozgat": {}
+      }
+    },
+    "Batı Karadeniz": {
+      "Zonguldak, Karabük, Bartın": {
+        "Zonguldak": {},
+        "Karabük": {},
+        "Bartın": {}
+      },
+      "Kastamonu, Çankırı, Sinop": {
+        "Kastamonu": {},
+        "Çankırı": {},
+        "Sinop": {}
+      },
+      "Samsun, Tokat, Çorum, Amasya": {
+        "Samsun": {},
+        "Tokat": {},
+        "Çorum": {},
+        "Amasya": {}
+      }
+    },
+    "Doğu Karadeniz": {
+      "Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane": {
+        "Trabzon": {},
+        "Ordu": {},
+        "Giresun": {},
+        "Rize": {},
+        "Artvin": {},
+        "Gümüşhane": {}
+      }
+    },
+    "Kuzeydoğu Anadolu": {
+      "Erzurum, Erzincan, Bayburt": {
+        "Erzurum": {},
+        "Erzincan": {},
+        "Bayburt": {}
+      },
+      "Ağrı, Kars, Iğdır, Ardahan": {
+        "Ağrı": {},
+        "Kars": {},
+        "Iğdır": {},
+        "Ardahan": {}
+      }
+    },
+    "Ortadoğu Anadolu": {
+      "Malatya, Elazığ, Bingöl, Tunceli": {
+        "Malatya": {},
+        "Elazığ": {},
+        "Bingöl": {},
+        "Tunceli": {}
+      },
+      "Van, Muş, Bitlis, Hakkari": {
+        "Van": {},
+        "Muş": {},
+        "Bitlis": {},
+        "Hakkari": {}
+      }
+    },
+    "Güneydoğu Anadolu": {
+      "Gaziantep, Adıyaman, Kilis": {
+        "Gaziantep": {},
+        "Adıyaman": {},
+        "Kilis": {}
+      },
+      "Şanlıurfa, Diyarbakır": {
+        "Şanlıurfa": {},
+        "Diyarbakır": {}
+      },
+      "Mardin, Batman, Şırnak, Siirt": {
+        "Mardin": {},
+        "Batman": {},
+        "Şırnak": {},
+        "Siirt": {}
+      }
+    },
+    "Extra-Regio NUTS 1": {
+      "Extra-Regio NUTS 2": {
+        "Extra-Regio NUTS 3": {}
+      }
+    }
+  }
+}
