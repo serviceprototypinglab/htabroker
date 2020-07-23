@@ -37,6 +37,7 @@ def hashedtopic(t):
 class Options:
     def __init__(self):
         self.pulsarurl = "pulsar://localhost:6650"
+        self.pulsarbase = "~/Dokumente/Pulsar/apache-pulsar-2.5.2"
 
 ## Main class
 
@@ -61,13 +62,19 @@ class HTABroker:
         self.client = None
         try:
             import pulsar
-            self.client = pulsar.Client(pulsarurl)
+            self.client = pulsar.Client(self.options.pulsarurl)
             testproducer = self.client.create_producer("non-persistent://public/default/htabroker-testprod")
-            print(f"+ backend: pulsar (client to {pulsarurl}) active")
-        except:
+            print(f"+ backend: pulsar (client to {self.options.pulsarurl}) active")
+        except Exception as e:
             if self.client:
                 self.client.close()
-            print("- backend: pulsar inactive")
+                self.client = None
+            print(f"- backend: pulsar inactive ({e})")
+
+        self.options.pulsarbase = os.path.expanduser(self.options.pulsarbase)
+        if self.client and not os.path.isdir(self.options.pulsarbase):
+            print("! backend: pulsar without base directory, function deployment is disabled")
+            self.options.pulsarbase = None
 
     def load_models(self):
         sys.path.append("lib")
@@ -221,11 +228,31 @@ class HTABroker:
         print("# subscribed to", sub)
         print("# list", self.sublist)
 
+        inps = []
         for entry in ndkeys(self.hierarchy):
             if entry.startswith(resargs + "::"):
                 print("# implies up-propagation subscription to", entry)
+                inps.append(entry)
             if resargs.startswith(entry + "::"):
                 print("# implies down-propagation subscription to", entry)
+                inps.append(entry)
+
+        if self.client and self.options.pulsarbase and inps:
+            tinps = []
+            for inp in inps:
+                tinps.append(f"non-persistent://public/default/{hashedtopic(inp)}")
+            tinpsstr = ",".join(tinps)
+
+            origdir = os.getcwd()
+            cmd = f"bin/pulsar-admin functions create --py {origdir}/lib/htaecho.py"
+            cmd += " --classname htaecho --tenant public --namespace default --name htaecho --parallelism 1"
+            cmd += f" --inputs {tinpsstr}"
+            cmd += f" --output non-persistent://public/default/{hashedtopic(resargs)}"
+
+            print(" # deploy", cmd)
+            os.chdir(self.options.pulsarbase)
+            os.system(cmd)
+            os.chdir(origdir)
 
     def check(self, args):
         if len(args) > 0:
