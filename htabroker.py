@@ -1,3 +1,5 @@
+# Hierarchical Topic Aggregation broker prototype
+
 import json
 import string
 import sys
@@ -80,18 +82,6 @@ hierarchy.update(hierarchy_geohash.copy())
 def hashedtopic(t):
     return hashlib.sha1(t.encode("utf-8")).hexdigest()
 
-###
-#f = open("_H1.json", "w")
-#json.dump(hierarchy, f, ensure_ascii=False, indent=2)
-#f.close()
-#x = ndkeys(hierarchy)
-#y = [hashedtopic(t) for t in x]
-#f = open("_H2.json", "w")
-#json.dump(y, f, ensure_ascii=False, indent=2)
-#f.close()
-#exit()
-###
-
 def helpmenu():
     print("---")
     print("Subscribe: sub <topic>")
@@ -103,12 +93,10 @@ def helpmenu():
 
 def smartsearch(args, h):
     for k in h:
-        #print("&", args, k)
         if args == k:
             return h, args
         x = smartsearch(args, h[k])
         if x:
-            #print("X", x)
             h, resargs = x
             return h, k + "::" + resargs
     return None
@@ -146,8 +134,6 @@ def resolver(arg):
 def listtopics(args):
     if len(args) > 1:
         args = [" ".join(args)]
-        #print("E: Too many arguments.")
-        #return
     if len(args) == 1 and not args[0].strip():
         args = []
     if len(args) == 1:
