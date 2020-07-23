@@ -34,8 +34,8 @@ except:
     print("- backend: pulsar inactive")
 
 def ndcount(d):
-    if isinstance(d, dict) and len(d) == 0:
-        return 1
+    #if isinstance(d, dict) and len(d) == 0:
+    #    return 0
     return sum([ndcount(v) + 1 if isinstance(v, dict) else 1 for v in d.values()])
 
 def flat(l):
