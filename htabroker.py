@@ -3,6 +3,7 @@ import string
 import sys
 import glob
 import os
+import hashlib
 
 sys.path.append("lib")
 
@@ -18,13 +19,11 @@ print("Hierarchical topic aggregation broker prototype.")
 print("+ backend: simulation active")
 
 client = None
-producer = None
-consumer = None
+consumers = {}
 try:
     import pulsar
     client = pulsar.Client(pulsarurl)
-    producer = client.create_producer("non-persistent://public/default/minibroker")
-    consumer = client.subscribe("non-persistent://public/default/minibroker", subscription_name="echo")
+    testproducer = client.create_producer("non-persistent://public/default/htabroker-testprod")
     print(f"+ backend: pulsar (client to {pulsarurl}) active")
 except:
     if client:
@@ -35,7 +34,16 @@ except:
 def ndcount(d):
     if isinstance(d, dict) and len(d) == 0:
         return 1
-    return sum([ndcount(v) if isinstance(v, dict) else 1 for v in d.values()])
+    return sum([ndcount(v) + 1 if isinstance(v, dict) else 1 for v in d.values()])
+
+def flat(l):
+    return [y for x in l for y in x]
+
+def qualify(k, lv):
+    return [k + "::" + v for v in lv]
+
+def ndkeys(d):
+    return list(d.keys()) + flat([qualify(k, ndkeys(v)) for k, v in d.items() if isinstance(v, dict)])
 
 data = glob.glob("data/*.json")
 data = [os.path.basename(d).replace(".json", "") for d in data]
@@ -68,6 +76,21 @@ hierarchy = {}
 for d in hierarchy_data:
     hierarchy.update(hierarchy_data[d].copy())
 hierarchy.update(hierarchy_geohash.copy())
+
+def hashedtopic(t):
+    return hashlib.sha1(t.encode("utf-8")).hexdigest()
+
+###
+#f = open("_H1.json", "w")
+#json.dump(hierarchy, f, ensure_ascii=False, indent=2)
+#f.close()
+#x = ndkeys(hierarchy)
+#y = [hashedtopic(t) for t in x]
+#f = open("_H2.json", "w")
+#json.dump(y, f, ensure_ascii=False, indent=2)
+#f.close()
+#exit()
+###
 
 def helpmenu():
     print("---")
@@ -151,20 +174,34 @@ def publish(args):
     if not h:
         return
     h, resargs = h
-    print("# sim: published to", args[0], msg)
+    pub = args[0]
+    print("# sim: published to", pub, msg)
 
-    if producer:
-        producer.send(msg.encode("utf-8"))
-        print("# pulsar: published (generic)", msg)
+    if client:
+        producer = client.create_producer(f"non-persistent://public/default/{hashedtopic(pub)}")
+        if producer:
+            producer.send(msg.encode("utf-8"))
+            print("# pulsar: published (generic)", msg)
 
+    props = []
     for s in sublist:
         h, sresargs = resolver(s)
         if sresargs in resargs:
             print("PROPAGATE UP:", s, "because", resargs, "∈", sresargs)
+            props.append(s)
         elif resargs in sresargs:
             print("PROPAGATE DOWN:", s, "because", sresargs, "∈", resargs)
+            props.append(s)
         else:
             print("# skip propagation", s, "because", resargs, "∉", sresargs)
+
+    for prop in props:
+        if client:
+            producer = client.create_producer(f"non-persistent://public/default/{hashedtopic(prop)}")
+            if producer:
+                producer.send(msg.encode("utf-8"))
+    if props and client:
+        print("# pulsar: propagated, total", len(props))
 
 def subscribe(args):
     if len(args) > 1:
@@ -173,21 +210,33 @@ def subscribe(args):
     h = resolver(args[0])
     if not h:
         return
-    sublist.append(args[0])
-    print("# subscribed to", args[0])
+    sub = args[0]
+    sublist.append(sub)
+    if client:
+        consumers[sub] = client.subscribe(f"non-persistent://public/default/{hashedtopic(sub)}", subscription_name="echo")
+    print("# subscribed to", sub)
     print("# list", sublist)
 
 def check(args):
     if len(args) > 0:
         print("E: Too many arguments.")
         return
-    if not consumer:
+    if not consumers:
         print("E: No consumer established.")
         return
-    msg = consumer.receive()
-    m = msg.data().decode()
-    #consumer.acknowledge(msg)
-    print("# pulsar: received", m)
+    if not client:
+        print("E: Pulsar backend not available.")
+        return
+    for sub in sublist:
+        consumer = consumers[sub]
+        try:
+            msg = consumer.receive(timeout_millis=50)
+        except:
+            print("# pulsar: nothing received on", sub)
+            return
+        m = msg.data().decode()
+        #consumer.acknowledge(msg)
+        print("# pulsar: received", m, "on", sub)
 
 def main():
     while True:

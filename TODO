@@ -1,4 +1,3 @@
-- interfacing with real message broker, e.g. Pulsar
-  (loading topics...)
+- deploying processing functions directly into Pulsar
 
-- VerneMQ cluster
+- https://github.com/uber/h3
