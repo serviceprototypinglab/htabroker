@@ -1,0 +1,28 @@
+Hierarchical (Geospatial) Topic Aggregation in Pub/Sub Message Brokers
+----------------------------------------------------------------------
+
+HTAbroker is a prototype for propagating and aggregating metrics
+submitted to pub/sub topics along geospatial hierarchies. It supports
+multiple indexing systems such as NUTS, geohash, H3 - some
+computationally, some data-driven, and some in hybrid mode.
+
+Run HTAbroker as CLI tool using either simulation or attached to the
+Apache Pulsar broker. Similar to the concept of FaaS, Pulsar allows
+deploying light-weight functions which are processed in an event-driven
+way; HTAbroker makes use of this concept to inject hierarchical
+subscription routes. For convenience, the system is also containerised.
+
+Run from code:
+ term0% # install deps, e.g. pip3 install pulsar-client
+ term1% ./pulsar-dockerised.sh
+ term2% python3 htabroker.py
+
+Run as containers:
+ term0% docker-compose run htabroker
+
+Once in the interactive shell, marked with ")))" in HTAbroker,
+everything should be self-explaining. You can follow the examples from
+the 'doc' file to get started.
+
+(Note: Function deployment is currently not working in the containerised
+version.)
