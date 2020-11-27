@@ -118,7 +118,11 @@ class HTABroker:
     def smartsearch(self, args, h):
         for k in h:
             if args == k:
+                h = h[k]
                 return h, args
+            if k.startswith(args):
+                h = h[k]
+                return h, k
             x = self.smartsearch(args, h[k])
             if x:
                 h, resargs = x
@@ -151,7 +155,6 @@ class HTABroker:
                     print("E: Topic", arg, "definitely not found.")
                     return
                 h, resargs = h
-                h = h[arg]
                 print("# resolving to", resargs)
         return h, resargs
 
