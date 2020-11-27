@@ -248,7 +248,7 @@ class HTABroker:
 
             origdir = os.getcwd()
             cmd = f"bin/pulsar-admin functions create --py {origdir}/lib/htaecho.py"
-            cmd += " --classname htaecho --tenant public --namespace default --name htaecho --parallelism 1"
+            cmd += f" --classname htaecho --tenant public --namespace default --name htaecho-{len(self.sublist)} --parallelism 1"
             cmd += f" --inputs {tinpsstr}"
             cmd += f" --output non-persistent://public/default/{hashedtopic(resargs)}"
 
