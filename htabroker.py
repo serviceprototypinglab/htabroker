@@ -108,7 +108,7 @@ class HTABroker:
 
     def helpmenu(self):
         print("---")
-        print("Subscribe: sub <topic>")
+        print("Subscribe: sub <topic> [propagations:up,down,(side)]")
         print("Publish: pub <topic> <msg>")
         print("List: list [<topic>[::<subtopic>]...]")
         print("Check: check")
@@ -217,7 +217,7 @@ class HTABroker:
             print("# pulsar: propagated, total", len(props))
 
     def subscribe(self, args):
-        if len(args) > 1:
+        if len(args) > 2:
             print("E: Too many arguments.")
             return
         h = self.resolver(args[0])
@@ -231,14 +231,25 @@ class HTABroker:
         print("# subscribed to", sub)
         print("# list", self.sublist)
 
+        props = ["up", "down"]
+        if len(args) == 2:
+            props = args[1].split(",")
+
         inps = []
         for entry in ndkeys(self.hierarchy):
+            neigh = "::".join(resargs.split("::")[:-1])
+            if entry.startswith(neigh + "::") and entry.count("::") == resargs.count("::") and entry != resargs:
+                if "side" in props:
+                    print("# implies side-propagation subscription to", entry)
+                    inps.append(entry)
             if entry.startswith(resargs + "::"):
-                print("# implies up-propagation subscription to", entry)
-                inps.append(entry)
+                if "up" in props:
+                    print("# implies up-propagation subscription to", entry)
+                    inps.append(entry)
             if resargs.startswith(entry + "::"):
-                print("# implies down-propagation subscription to", entry)
-                inps.append(entry)
+                if "down" in props:
+                    print("# implies down-propagation subscription to", entry)
+                    inps.append(entry)
 
         if self.client and self.options.pulsarbase and inps:
             tinps = []
